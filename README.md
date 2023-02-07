@@ -1,6 +1,10 @@
 <!-- About Me -->
 <h1>Hi 👋 My name is Gilles Ling </h1>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 🌍 I'm based in Lille, France <br>
 👨‍💻 I'm a young Developper FrontEnd <br>
 🔭 I'm currently working on my portfolio site <br>
