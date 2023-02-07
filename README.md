@@ -2,25 +2,14 @@
 <h1>Hi 👋 My name is Gilles Ling </h1>
 
 🌍 I'm based in Lille, France <br>
-👨‍💻 Young Developper FrontEnd <br>
+👨‍💻 I'm a young Developper FrontEnd <br>
+🔭 I'm currently working on my portfolio site <br>
 🚀 I'm currently learning TypeScript and Gsap <br>
 ✉️ You can contact me at [linggilles@gmail.com](mailto:linggilles@gmail.com)
 
 <!-- Skills part -->
 ## Programming Language
 <p align="left">
-    <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-        <img
-        src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"
-        alt="html"
-        />
-    </a>
-    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img
-        src="https://img.shields.io/badge/CSS3-4169E1?style=for-the-badge&logo=css3&logoColor=white"
-        alt="css"
-        />
-    </a>
     <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -35,6 +24,18 @@
 
 ## FrontEnd Developpment
 <p align="left">
+    <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <img
+        src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"
+        alt="html"
+        />
+    </a>
+    <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img
+        src="https://img.shields.io/badge/CSS3-4169E1?style=for-the-badge&logo=css3&logoColor=white"
+        alt="css"
+        />
+    </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white"
