@@ -7,7 +7,7 @@
 🌍 I'm based in Lille, France <br>
 👨‍💻 I'm a young Developper FrontEnd <br>
 🔭 I'm currently working on my portfolio site <br>
-🚀 I'm currently learning TypeScript and Gsap <br>
+🚀 I'm currently learning TypeScript, TreeJS and Gsap <br>
 ✉️ You can contact me at [linggilles@gmail.com](mailto:linggilles@gmail.com)
 
 <!-- Skills part -->
